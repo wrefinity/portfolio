@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "http://wrefinity.github.io/portfolio",
+  "homepage": "http://wrefinity.github.io/portfolio/public/",
   "private": true,
   "engines": {
     "node": ">=12.x"
