@@ -1,0 +1,115 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/code.png",
+      "title": "Front-End",
+      "description": "Offers responsive web applications using React-TypeScript, NextJs, Redux, Axios,"
+    },
+    {
+      "id": "2",
+      "src": "./img/code.png",
+      "title": "Back-End",
+      "description": "Node-TypeScript (Express, JWT, WebSockets, ..), Django (Celery, WebSockets, Slippers,...)"
+    },
+    {
+      "id": "3",
+      "src": "./img/code.png",
+      "title": "Mobile Technologies",
+      "description": "React Native with Node Js (Type Script)/Django Backend, Java for Andriod with XML and Firebase/SQLite"
+    },
+    {
+      "id": "3",
+      "src": "./img/cloud.png",
+      "title": "Database Technologies",
+      "description": "Code Relational and No-Relational Databases Using Redis, Mongo, MySQL"
+    },
+    {
+      "id": "4",
+      "src": "./img/cloud.png",
+      "title": "Web Hosting Services",
+      "description": "Host application with services using AWS EC2, S3 Buckets, Route 53, SSL, Nginx, Caddy, Ha-Proxy"
+    },
+    {
+      "id": "5",
+      "src": "./img/fork.png",
+      "title": "Cross Platform Skills",
+      "description": "Docker, Container Ochestration Kubernetes, Code Pipelining, Jenkins, Github, Ubuntu Os"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/gomerce.png",
+      "title": "Gomerce",
+      "description": "A multi-vendor ecommerce platform using Flask and React...",
+      "link": "https://github.com/Gomerce/GomerceBE"
+    },
+    {
+      "id": "2",
+      "src": "./img/yeager.png",
+      "title": "Yeager AI",
+      "description": "An AI that build AI using Django, Celery, FastAPI, WebSockets Redis..",
+      "link": "https://github.com/Ajioz/yeager_ai_app"
+    },
+    {
+      "id": "3",
+      "src": "./img/mami.jpeg",
+      "title": "MamiHub",
+      "description": "A multi-vendor ecommerce platform using Node and React TypeScript...",
+      "link": "https://github.com/Mamihubs/Backend"
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "company": "Ajioz Limited",
+      "src": "./img/gomerce.png",
+      "date": "June 2022 - June 2023",
+      "description": "during the course of service with ajioz limitted the Gomerce project (multivendor ecommerce) was built as a team. I participated as a team lead for the backend and also as backend engineer developing the API using Flask (BluePrint, RestFul API, SQLAlchemy, PostgresSQL).",
+      "job_title": "Flask Backend Engineer"
+    },
+    {
+      "id": "2",
+      "company": "YeagerAI",
+      "src": "./img/yeager.png",
+      "date": "Feb - June 2023",
+      "description": "The contract with YeagerAI was the development of yeager ai web application (which is an AI that builds AI using Web-Sockets, Celery, Slippers, Redis, FastAPI, Dj-Channels). During the development of the application, i was charged with the responsibility of handling websockets, dj-channel operations, celery for async task, Fask API data consumption, and other task",
+      "job_title": "Django and Flask Backend Engineer"
+    },
+    {
+      "id": "2",
+      "company": "MamiHub",
+      "src": "./img/mami.jpeg",
+      "date": "July 2023 - September 2023",
+      "description": "The contract with Mami was the development of a multivendor web application. During the development of mami hub, i was recruited as a backend engineer and have utilized the Node TypeScript Framework for the development of some designated task by the team lead.",
+      "job_title": "Django and Flask Backend Engineer"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
